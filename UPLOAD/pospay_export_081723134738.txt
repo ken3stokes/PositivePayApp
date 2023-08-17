@@ -1,0 +1,10 @@
+CheckNumber: 2257, Payee: Company 4, Amount: 950.6, IssueDate: 2023-08-07
+CheckNumber: 5124, Payee: Company 9, Amount: 738.36, IssueDate: 2023-07-22
+CheckNumber: 8038, Payee: Company 6, Amount: 415.78, IssueDate: 2023-07-19
+CheckNumber: 4441, Payee: Company 10, Amount: 658.95, IssueDate: 2023-08-06
+CheckNumber: 2386, Payee: Company 10, Amount: 161.34, IssueDate: 2023-07-18
+CheckNumber: 8172, Payee: Company 7, Amount: 971.69, IssueDate: 2023-08-05
+CheckNumber: 9774, Payee: Company 10, Amount: 754.03, IssueDate: 2023-07-31
+CheckNumber: 5826, Payee: Company 4, Amount: 404.06, IssueDate: 2023-07-20
+CheckNumber: 4018, Payee: Company 7, Amount: 255.09, IssueDate: 2023-08-08
+CheckNumber: 2888, Payee: Company 8, Amount: 374.8, IssueDate: 2023-07-23
