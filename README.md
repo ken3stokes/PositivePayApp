@@ -2,6 +2,9 @@
 
 The Positive Pay Solution is a tool designed to manage and analyze payment data. It provides an intuitive GUI for users to generate, view, and export payment data. Additionally, it can generate detailed daily and nightly reports in PDF format.
 
+## Disclaimer
+The data generated and used by this application is entirely fictional and auto-generated. It is intended only for demonstration and testing purposes and should not be used for real-world banking or financial transactions.
+
 ## Features
 
 - **Generate Payment Data**: The application allows users to generate random payment data, which can be reviewed and exported.
@@ -52,4 +55,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 MIT License
+
+
 
